@@ -1,0 +1,17 @@
+{
+    "apiURL":"http://127.0.0.1:8000/",
+    "experience":{
+                    "all":"resumebackend/getExperience/",
+                    "specific":"resumebackend/getSpecificExperience/"
+                 },
+    "basic-info":{
+        "email":"kanav20011997@gmail.com",
+        "address":"HSR Layout, Bangalore 560102 ⇆ Dwarka, New Delhi 110078 ·  (+91) 98114 77471 ·",
+        "social_media":{
+            "linkedIn":"https://in.linkedin.com/public-profile/in/kanav-farishta-39a95615a?",
+            "github":"https://github.com/kanavfarishta/",
+            "twitter":"https://twitter.com/FarishtaKanav",
+			"instagram":"https://www.instagram.com/kanavfarishta/"
+        }
+    }
+}
