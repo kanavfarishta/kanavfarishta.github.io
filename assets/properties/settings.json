@@ -14,5 +14,10 @@
 			"instagram":"https://www.instagram.com/kanavfarishta/"
         }
     },
-    "resumeLink" : "/assets/PDF/Resume.pdf"
+    "resumeLink" : "/assets/PDF/Resume.pdf",
+    "certificates" : {
+        "pythonBasic":"https://www.hackerrank.com/certificates/9385d2af47f1",
+        "problemBasic":"https://www.hackerrank.com/certificates/e9d3358901fa",
+        "problemInter":"https://www.hackerrank.com/certificates/1f55dd7cbb3e"
+    }
 }
